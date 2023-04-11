@@ -11,3 +11,8 @@ This is to help starting coder's learn and adapt their knowledge in creating cod
 
 ## Project Status
 I will continue to add to my profile page as part of my resume in order for future employers to look at.
+
+## Project 1- SMIRK
+
+https://bllongbeverly.github.io/smirk/        GitHub Repo: https://github.com/bllongbeverly/smirk
+
